@@ -1,3 +1,8 @@
+## What is Ansible?
+
+Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code.[2] It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration. Ansible was written by Michael DeHaan and acquired by Red Hat in 2015. Ansible is agentless, temporarily connecting remotely via SSH or Windows Remote Management (allowing remote PowerShell execution) to do its tasks. 
+
+
 # Ansible-Pros-and-Cons
 Obviously, every device has ideal use cases in which it sparkles more splendid than the rest. For instance, Ansible is broadly viewed as being anything but difficult to learn and utilize its Playbooks are comprehensible/justifiable, taking into account results to be accomplished in a shorter measure of time. All things considered, the contribution's effortlessness may leave progressed clients wanting more advancement. 
 
